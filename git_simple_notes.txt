@@ -17,3 +17,5 @@ git branch -b name to create a new branch and switch to it, same as git branch n
 git branch -d name to delete a branch
 
 git branch -D name to force a deletion
+
+git checkout -b local_name remote_repo_name/remote_branch_name to create a local branch based on remote branch
