@@ -4,3 +4,9 @@ git reflog to show all the version, including canceled
 git diff HEAD -- filename to show the difference of a file between workspace and version store
 
 git checkout -- filename to cancel all the modification of the file int the workspace
+
+git update to fetch from a remote repo
+
+git remote add name git@github.com:yoyoMael/name.git to add a remote repo
+
+git push to push the local modification
